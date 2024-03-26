@@ -6,20 +6,54 @@ The notation used in the code follows what's described in the [Project](https://
 
 - [x] Part 1
   - [x] Part 1.1
-  - [ ]  Part 1.2 [DUE TO 04/13]
+    - [x] 1
+    - [x] 2
+  - [ ]  Part 1.2
     - [x] 1
     - [ ] 2
+    - [ ] 3
+    - [ ] 4
   - [ ] Part 1.3
-  - [ ] Part 1.4 [DUE TO 04/20]
+    - [ ] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
+  - [ ] Part 1.4
+    - [ ] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4 [DUE TO 04/05]
 - [ ] Part 2
   - [ ] Part 2.1
   - [ ] Part 2.2
+    - [ ] 1
+    - [ ] 2
   - [ ] Part 2.3
-  - [ ] Part 2.4 [DUE TO 04/27]
+    - [ ] 1
+    - [ ] 2
+  - [ ] Part 2.4 
+    - [ ] 1
+    - [ ] 2
 - [ ] Part 3
   - [ ] Part 3.1
-  - [ ] Part 3.2 [DUE TO 05/04]
-- [ ] Part 4 [DUE TO 05/11]
+  - [ ] Part 3.2 [DUE TO 04/19]
+- [ ] Part 4
+    - [ ] 1
+    - [ ] 2
+    - [ ] 3
+    - [ ] 4
+    - [ ] 5
+    - [ ] 6
 - [ ] Part 5
+  - [ ] 1
+  - [ ] 2
+  - [ ] 3
+  - [ ] 4
 - [ ] Part 6
-- [ ] Part 7 [DUE TO 05/18]
+  - [ ] 1
+  - [ ] 2
+- [ ] Part 7 
+  - [ ] 1
+  - [ ] 2 [DUE TO 05/01]
